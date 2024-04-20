@@ -64,6 +64,4 @@
     transition: opacity 0.75s;
 }
 
-.menu:hover .aside-text {
-  opacity: 0;
-}
+
